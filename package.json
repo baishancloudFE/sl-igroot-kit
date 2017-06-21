@@ -1,0 +1,24 @@
+{
+  "name": "sl-igroot-kit",
+  "version": "0.0.1",
+  "description": "igroot kit",
+  "main": "index.js",
+  "bin": {
+    "ice": "./bin/igroot.js"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "宝码",
+  "license": "ISC",
+  "devDependencies": {
+
+  }
+}
